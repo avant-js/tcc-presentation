@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "AvantJS",
+    "packageVersion": "0.0.1",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "avant-js",
+    "githubRepository": "tcc-presentation"
+  }
+}
