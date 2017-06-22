@@ -1,32 +1,67 @@
 [
-    "index.md",
-    "intro.html",
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "resources/avantjs.png"
+        }
+    },
+    {
+        "filename": "intro.html",
+        "attr": {
+            "data-background": "resources/notebook.jpg"
+        }
+    },
     "problema.html",
     "delimitacao.html",
     "objetivos.html",
     "objetivos-especificos.html",
-    "referencial.html",
+    {
+        "filename": "referencial.html",
+        "attr": {
+            "data-background": "resources/referencial.jpg"
+        }
+    },
     "programacao.html",
     "programacao-eventos.html",
-    "javascript-crockford.html",
+    {
+        "filename": "javascript-crockford.html",
+        "attr": {
+            "data-background": "resources/javascript_code.png"
+        }
+    },
     "javascript.html",
     "nodejs.html",
     "npm.html",
     "microservices.html",
     "gerador-codigo.html",
-    "trabalhos-relacionados.html",
+    {
+        "filename": "trabalhos-relacionados.html",
+        "attr": {
+            "data-background": "resources/relacionados.jpg"
+        }
+    },
     "petri-nets.html",
     "uml.html",
     "node-red.html",
     "swagger.html",
     "yeoman.html",
     "comparativo-trabalhos.html",
-    "modelo.html",
+    {
+        "filename": "modelo.html",
+        "attr": {
+            "data-background": "resources/model.jpg"
+        }
+    },
     "modelo-microservices.html",
     "metodologia.html",
     "metodologia-dev.html",
     "metodologia-avaliacao.html",
-    "solucao.html",
+    {
+        "filename": "solucao.html",
+        "attr": {
+            "data-background": "resources/avantjs2.png"
+        }
+    },
     "solucao-arquitetura.html",
     "solucao-atividades.html",
     "solucao-avantjs.html",

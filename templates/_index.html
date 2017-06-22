@@ -13,7 +13,7 @@
 
         <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
 
-        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/league.css" id="theme">
+        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/night.css" id="theme">
 
 
         <!-- For syntax highlighting -->
@@ -70,6 +70,7 @@
             height: '100%',
 
             transition: 'slide', // none/fade/slide/convex/concave/zoom
+            backgroundTransition: 'slide',
 
             // Optional reveal.js plugins
             dependencies: [
@@ -84,6 +85,16 @@
           });
 
         </script>
+
+        <style>
+            div .backgrounds {
+                -webkit-filter: blur(4px) saturate(.5) brightness(.8);
+                -moz-filter: blur(4px) saturate(.7) brightness(.9);
+                -o-filter: blur(4px) saturate(.7) brightness(.9);
+                -ms-filter: blur(4px) saturate(.7) brightness(.9);
+                filter: blur(4px) saturate(.7) brightness(.9);
+            }
+        </style>
     </body>
 
 </html>
