@@ -23,12 +23,6 @@
     },
     "programacao.html",
     "programacao-eventos.html",
-    {
-        "filename": "javascript-crockford.html",
-        "attr": {
-            "data-background": "resources/javascript_code.png"
-        }
-    },
     "javascript.html",
     "nodejs.html",
     "npm.html",
@@ -43,6 +37,7 @@
     "petri-nets.html",
     "uml.html",
     "node-red.html",
+    "nodered-img.html",
     "swagger.html",
     "yeoman.html",
     "comparativo-trabalhos.html",
@@ -63,15 +58,32 @@
         }
     },
     "solucao-arquitetura.html",
-    "solucao-atividades.html",
+    {
+        "filename": "solucao-atividades.html",
+        "attr": {
+            "data-background": "resources/zenhub.png"
+        }
+    },
     "solucao-avantjs.html",
     "avantjs-uso.html",
     "avantjs-codigo-gerado.html",
     "avantjs-ci.html",
-    "resultados.html",
+    {
+        "filename": "resultados.html",
+        "attr": {
+            "data-background": "resources/analise.jpg"
+        }
+    },
     "modelagem-dev.html",
     "experiencia-usuario.html",
     "geracao-codigo.html",
     "conclusao.html",
-    "trabalhos-futuros.html"
+    "trabalhos-futuros.html",
+    {
+        "filename": "end.html",
+        "attr": {
+            "data-background": "resources/end.png"
+        }
+    },
+    "referencia.html"
 ]

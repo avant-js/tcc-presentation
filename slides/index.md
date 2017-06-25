@@ -1,6 +1,6 @@
 
 <h1 style="color:black;"> AvantJS </h1>
-<h2 style="color:black;">  Proposta de ferramenta para modelagem de aplicações JavaScript </h2>
+<h2 style="color:black;">  Proposta de ferramenta para modelagem de aplicações JavaScript </h3>
 
 <br><br>
 <p style="color:black;"><b>Matheus Webler</b></p>
