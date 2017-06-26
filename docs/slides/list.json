@@ -80,11 +80,12 @@
     "geracao-codigo.html",
     "conclusao.html",
     "trabalhos-futuros.html",
+    "referencia.html",
+     "ref2.html",
     {
         "filename": "end.html",
         "attr": {
             "data-background": "resources/end.png"
         }
-    },
-    "referencia.html"
+    }
 ]

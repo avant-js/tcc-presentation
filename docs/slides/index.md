@@ -8,5 +8,6 @@
 <p style="color:black;"><b>Trabalho de conclusão do curso de Ciência da Computação</b></p>
 
 <br><br>
-<br><br>
+<p style="color:black;"><b>Orientador Prof. Ernesto Lindstaedt</b></p>
+<br>
 <p align="right" style="color:black;"><b>UNISINOS - 2017/1</b></p>
